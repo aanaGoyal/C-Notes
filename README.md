@@ -1,7 +1,7 @@
 <h1 align="center">🚀 C++ Notes for Beginners to Pros</h1>
 
 <p align="center">
-  🧠 Master C++ step-by-step with clean code, key concepts, practice problems & MCQs!
+  🧠 Master C++ step-by-step with clean code, key concepts, and important practice problems!
 </p>
 
 <p align="center">
@@ -36,4 +36,5 @@ C-Notes/
 ├── FileHandling/         # File read/write
 ├── STL/                  # Vectors, Maps, Sets, Queues
 ├── Practice/             # Pattern printing, number theory, MCQs
+├── ImportantProblems/    # ✅ Must-do questions for interviews
 └── README.md             # This file
