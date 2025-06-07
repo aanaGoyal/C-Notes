@@ -35,6 +35,5 @@ C-Notes/
 ├── Pointers/             # Basics, dynamic memory
 ├── FileHandling/         # File read/write
 ├── STL/                  # Vectors, Maps, Sets, Queues
-├── Practice/             # Pattern printing, number theory, MCQs
 ├── ImportantProblems/    # ✅ Must-do questions for interviews
 └── README.md             # This file
