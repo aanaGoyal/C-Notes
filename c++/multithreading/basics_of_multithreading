@@ -1,0 +1,9 @@
+1. THREAD --->> Smallest unit of execution 
+            eg. A function 
+
+2. SHARED RESOURCE --->> Sharing the same resource at the same time by two threads.
+            But it can create a prblm also.
+
+3. SYNCHRONIZATION --->> To avoid the conflicts between multiple threads while accessing the same resource.
+            Tools like: Mutex , locks are used.
+

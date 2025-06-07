@@ -1,0 +1,6 @@
+It is used in C++ style programmoing multithreading.
+
+thread --->> Create a new thread.
+t.join() --->> Waits for thread to finish.
+t.detach() --->> Separates thread execution.
+t.joinable() --->> Checks if a thread can be joined.

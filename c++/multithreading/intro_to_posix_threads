@@ -1,0 +1,14 @@
+PTHREADS --->> (POSIX THREADS) --->> PORTABLE OPERATING SYSTEM INTERFACE THREADS
+
+KEY FEATURES IN PTHREAD.H --->>
+
+1. pthread_create() --->> Create a new thread
+2. pthread_exit() --->> Exit a thread
+3. pthread_join() --->> Wait for thread to finish
+4. pthread_mutex_init() --->> Initialize a Mutex
+5. pthread_mutex_lock() --->> Lock a Mutex
+6. pthread_mutex_unlock() --->> Unlock a Mutex
+7. pthread_mutex_detroy() --->> Destroy a Mutex
+
+
+RACE CONDITION --->> Condition when two threads access a shared variable at the same time without SYNCHRONIZATION.

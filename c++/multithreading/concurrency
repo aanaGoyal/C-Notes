@@ -1,0 +1,18 @@
+/* CONCURENCY --->>  */
+
+// Two or more tasks happening at the same time or overlapping
+
+
+/* SINGLE CPU --->>  */
+// It introduces delays between mutiple applications, as single CPU may struggle to allocate sufficient time to each.
+
+
+
+/* MULTIPLE CPU --->>  */
+// Allows applications to run simultaneously.
+
+
+
+/* PARALLELISM --->>  */
+// Mutiple tasks running at the same time on multiple CPUs.
+

@@ -1,0 +1,5 @@
+""" INHERITANCE """
+
+It allows a class(child/derived class) to inherit the properties and behaviours from another class(parent/base class).
+
+It follows 'is a' relationship.

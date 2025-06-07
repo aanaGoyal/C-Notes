@@ -1,0 +1,5 @@
+""" Encapsulation """
+
+Mechanism of hiding the data and restricting direct access to them from outside the class.
+Data can only be accessed by public methods (Getters/ Setters).
+
